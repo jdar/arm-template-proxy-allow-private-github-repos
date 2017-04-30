@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "identifierPrefix": {
-      "value": "SNR"
+      "value": "ghProxy"
     },
 
     "applicationIdentifier": {
@@ -27,7 +27,7 @@
     },
 
     "adminPassword": {
-      "value": "WSXzaq123"
+      "value": "WSXzaq123changemesecurestring"
     },
 
     "virtualMachineSize": {

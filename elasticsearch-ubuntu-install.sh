@@ -77,7 +77,7 @@ DISCOVERY_ENDPOINTS="127.0.0.1"
 INSTALL_MARVEL="yes"
 INSTALL_KIBANA="yes"
 USERNAME="azureuser"
-PASSWORD="WSXzaq123"
+PASSWORD="WSXzaq123changemesecurestring"
 
 #Loop through options passed
 while getopts :n:d:v:l:k:u:p:sh optname; do

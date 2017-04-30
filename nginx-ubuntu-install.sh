@@ -38,7 +38,7 @@ fi
 
 #Script Parameters
 USERNAME="azureuser"
-PASSWORD="WSXzaq123"
+PASSWORD="WSXzaq123changemesecurestring"
 
 #Loop through options passed
 while getopts :u:p:h optname; do
